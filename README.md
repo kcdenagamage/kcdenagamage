@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kasun Chamara@kcdenagamage
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Kasun Chamara
+- 👀 I’m interested in Software developlment
+- 🌱 I’m currently learning fronetend technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: dkchamara@gmail.com Mobile: +94776891652 Skype:dkchamara
 
